@@ -6,3 +6,5 @@ learn git order of amend
 
 this txt is master.
 
+
+add issue 1, in order to test branch
