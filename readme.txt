@@ -4,4 +4,5 @@ Creating a new branch is quick and simple.
 
 learn git order of amend
 
-modified
+
+add issue 1, in order to test branch
