@@ -4,4 +4,5 @@ Creating a new branch is quick and simple.
 
 learn git order of amend
 
-modified
+this txt is master.
+
