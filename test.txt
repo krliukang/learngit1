@@ -1,1 +1,4 @@
-test
+purpose:
+	learn git
+	applying git manage my program
+	
