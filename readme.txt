@@ -10,4 +10,4 @@ this txt is master.
 add issue 1, in order to test branch
 add issue 3, test realy work
 
-d i22222222222ue 312_11
+add issu 3_1, realize merge file
